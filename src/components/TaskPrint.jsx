@@ -1,4 +1,3 @@
-// src/components/TaskPrint.js
 import React, { useState } from 'react';
 
 const TaskPrint = ({ task, onEdit, onDelete, onToggle }) => {
